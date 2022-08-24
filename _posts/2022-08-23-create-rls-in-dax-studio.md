@@ -69,4 +69,4 @@ On the red box, I use the syntax for defining the calculated column, and named i
 
 Finally you can see the results, it's evaluating _True_ for the employees that Kobe Graham has access. If you are happy with the results you can copy it to the <strike>bad window</strike> manage role window.
 
-Using Dax Studio gives you, autocomplete, a friendly code editor and many more features. This method will help you debug and have less friction when developing complex expressions for for level security.
+Using Dax Studio gives you, autocomplete, a friendly code editor and many more features. This method will help you debug and have less friction when developing complex expressions for row level security.
