@@ -2,7 +2,7 @@
 title: "Demo page and more"
 date: 2022-08-22 01:50:00 +0200
 categories:
-  - Power BI
+  - PowerBI
 tags:
   - Demo
 ---

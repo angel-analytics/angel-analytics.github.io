@@ -2,9 +2,9 @@
 title: "First Post!"
 date: 2022-08-20 03:00:00 +0200
 categories:
-  - blog
+  - Blog
 tags:
-  - update
+  - Update
 ---
 
 Quick post, I'll be writing about Power BI, DAX, data modelling and business Intelligence and analytics. English is not my first language, but hopefully the posts will be understandable.
